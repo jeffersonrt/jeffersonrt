@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Jeff!
 💻 Frontend Developer at Seven Apps
 
-I'm currently working as a contractor for AdventHealth - Florida/EUA
+I'm currently working as a contractor for AdventHealth - Florida/USA
 
 
 [![Linkedin: jefferson-tora](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&style=for-the-badge&link=https://www.linkedin.com/in/jefferson-tora/)](https://www.linkedin.com/in/jefferson-tora/)
